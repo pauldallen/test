@@ -1,0 +1,9 @@
+[submodule "extends"]
+	path = extends
+	url = git@github.com:pauldallen/base-test.git
+[submodule "server-1"]
+	path = server-1
+	url = git@github.com:pauldallen/server-1.git
+[submodule "server-pallen"]
+	path = server-pallen
+	url = git@github.com:pauldallen/server-pallen.git
